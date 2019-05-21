@@ -7,3 +7,6 @@ A workshop on how to use git for design documentation
 
 ## Google form
 Fill in the [form about open source design at TU Delft](https://docs.google.com/forms/d/e/1FAIpQLScNbl2aYJmehjgxVDoVChvU2nnIBlJmPZf8Qq6N3Pt4cc-d6Q/viewform)
+
+
+## [About our open hardware group](http://gocommons.org/)
